@@ -30,6 +30,8 @@ Below is a simple pin diagram for the 32-bit LRU Cache Memory module:
 
 ![ryJVm](https://github.com/GauravDhak/LRU-Cache-Memory/assets/113551816/15d4d0d3-88cb-4366-b44c-ef4536ab223e)
 
+![Screenshot 2024-06-24 085304](https://github.com/GauravDhak/LRU-Cache-Memory/assets/113551816/898ed4c9-0e1d-46e2-a650-60b9f89fc7b3)
+
     reg clk;
     reg rst;
     reg read;
